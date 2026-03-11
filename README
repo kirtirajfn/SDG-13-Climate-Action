@@ -1,0 +1,37 @@
+# EcoTrack 
+### SDG 13 — Climate Action | Carbon Footprint Tracker
+
+## Team Members
+| Name | Role |
+|---|---|
+| [Name 1] | Project Lead / Developer |
+| [Name 2] | Designer / Documentation |
+| [Name 3] | Developer / Testing |
+| [Name 4] | Scrum Master / Trello |
+| [Name 5] | Presenter / Report Writing |
+
+## Project Description
+EcoTrack is a web-based carbon footprint tracker that helps 
+users monitor their daily CO2 emissions from transport, energy, 
+food, and consumption. It provides personalised eco tips and 
+tracks progress over time, directly supporting UN SDG 13: 
+Climate Action.
+
+## Target Users
+University students and young adults who want to understand 
+and reduce their environmental impact.
+
+## SDLC Overview
+- **Planning:** Defined project scope, user stories, product backlog on Trello
+- **Design:** Created Use Case Diagram, Class Diagram, UI mockups
+- **Development:** Built HTML/CSS/JS prototype over 2 sprints
+- **Testing:** Conducted user testing and bug fixes
+
+## Tools Used
+- Trello — Agile/Scrum task management
+- GitHub — Version control and progress tracking
+- Draw.io — UML diagrams
+- HTML / CSS / JavaScript — Prototype development
+
+## Links
+- Trello Board: [paste your trello link here]
